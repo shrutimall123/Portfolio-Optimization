@@ -80,9 +80,8 @@ To develop a deep learning-based model that predicts risk-adjusted returns (Shar
 ## 📬 Contact
 
 **Author:** Shruti Mall  
-**Email:** shrutimall@example.com (replace with your real email)  
-**LinkedIn:** [Your LinkedIn URL]  
-**GitHub:** [Your GitHub Profile URL]
+**Email:** mallshruti5030@gmail.com 
+**LinkedIn:** [https://www.linkedin.com/in/shruti-mall-57a155233/]  
 
 ---
 
